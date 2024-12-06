@@ -1,0 +1,11 @@
+/Assets/Unity.VisualScripting.Generated.meta
+/Assets/Unity.VisualScripting.Community.Generated
+/Assets/Unity.VisualScripting.Generated
+/Assets/Unity.VisualScripting.Community.Generated.meta
+*.csproj
+*.sln
+/Library
+/Logs
+/Temp
+/UserSettings
+/.vscode
